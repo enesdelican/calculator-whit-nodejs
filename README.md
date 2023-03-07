@@ -1,2 +1,2 @@
-# calculator-whit-nodejs
+# calculator-with-nodejs
 Node.js , express.js , nodemon , 
